@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Lemon-Test.Core/Lemon-Test.Core.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/Lemon-Test.Core.Tests/Lemon-Test.Core.Tests.csproj" />
+  </Folder>
+</Solution>

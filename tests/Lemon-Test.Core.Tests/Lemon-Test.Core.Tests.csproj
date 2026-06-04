@@ -27,4 +27,8 @@
     <ProjectReference Include="..\..\src\Lemon-Test.Core\Lemon-Test.Core.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Exercises\" />
+  </ItemGroup>
+
 </Project>

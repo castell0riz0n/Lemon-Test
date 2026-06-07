@@ -1,0 +1,6 @@
+@LifecycleFeatures.Api_HostAddress = http://localhost:5193
+
+GET {{LifecycleFeatures.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
